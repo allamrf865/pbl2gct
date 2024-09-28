@@ -6,3 +6,4 @@ numpy>=1.23.2
 Cython==0.29.24
 setuptools==65.5.0
 wheel==0.38.4
+distlib
